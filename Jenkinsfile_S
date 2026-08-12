@@ -1,6 +1,6 @@
 node{
 stage('First stage'){
-git 'https://github.com/dhanunjayasneha/test.git'
+git 'https://github.com/nagaraja90190/jenkinsfile.git'
 }
 stage('Second stage'){
 build 'Git integration'
