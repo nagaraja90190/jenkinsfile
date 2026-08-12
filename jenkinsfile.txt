@@ -10,7 +10,7 @@ git branch: 'main', url: 'https://github.com/dhanunjayasneha/maven.git'
 stage('Second stage')
 {
 steps{
-build 'maven'
+build 'demojob'
 }
 }
 stage('Third stage')
